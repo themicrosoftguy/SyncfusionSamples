@@ -1,0 +1,165 @@
+
+name: flutter_examples
+description: This project contains the Syncfusion Flutter UI widgets examples.
+version: 28.1.33
+homepage: https://github.com/syncfusion/flutter-examples
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  url_launcher: ^6.1.0
+  path_provider: ^2.0.1
+  path_provider_foundation: ^2.1.0
+  desktop_window: 0.4.0
+  intl: '>=0.18.1 <0.20.0'
+  cupertino_icons: ^1.0.8
+  google_generative_ai: ^0.4.6
+  flutter_markdown: ^0.7.4+1
+  
+  syncfusion_localizations:
+    
+      
+      path: C:\Program Files (x86)\Syncfusion\Essential Studio\Flutter\28.1.33\Packages\flutter_localizations\syncfusion_localizations
+      
+      
+  syncfusion_flutter_datagrid_export:
+    
+      
+      path: C:\Program Files (x86)\Syncfusion\Essential Studio\Flutter\28.1.33\Packages\flutter_datagrid_export
+      
+      
+  syncfusion_flutter_calendar:
+    
+      
+      path: C:\Program Files (x86)\Syncfusion\Essential Studio\Flutter\28.1.33\Packages\flutter_calendar
+      
+      
+  syncfusion_flutter_datepicker:
+    
+      
+      path: C:\Program Files (x86)\Syncfusion\Essential Studio\Flutter\28.1.33\Packages\flutter_datepicker
+      
+      
+  syncfusion_flutter_charts:
+    
+      
+      path: C:\Program Files (x86)\Syncfusion\Essential Studio\Flutter\28.1.33\Packages\flutter_charts
+      
+      
+  syncfusion_flutter_gauges:
+    
+      
+      path: C:\Program Files (x86)\Syncfusion\Essential Studio\Flutter\28.1.33\Packages\flutter_gauges
+      
+      
+  syncfusion_flutter_sliders:
+    
+      
+      path: C:\Program Files (x86)\Syncfusion\Essential Studio\Flutter\28.1.33\Packages\flutter_sliders
+      
+      
+  syncfusion_flutter_pdf:
+    
+      
+      path: C:\Program Files (x86)\Syncfusion\Essential Studio\Flutter\28.1.33\Packages\flutter_pdf
+      
+      
+  syncfusion_flutter_barcodes:
+    
+      
+      path: C:\Program Files (x86)\Syncfusion\Essential Studio\Flutter\28.1.33\Packages\flutter_barcodes
+      
+      
+  syncfusion_officechart:
+    
+      
+      path: C:\Program Files (x86)\Syncfusion\Essential Studio\Flutter\28.1.33\Packages\flutter_officechart
+      
+      
+  syncfusion_flutter_maps:
+    
+      
+      path: C:\Program Files (x86)\Syncfusion\Essential Studio\Flutter\28.1.33\Packages\flutter_maps
+      
+      
+  syncfusion_flutter_signaturepad:
+    
+      
+      path: C:\Program Files (x86)\Syncfusion\Essential Studio\Flutter\28.1.33\Packages\flutter_signaturepad
+      
+      
+  syncfusion_flutter_pdfviewer:
+    
+      
+      path: C:\Program Files (x86)\Syncfusion\Essential Studio\Flutter\28.1.33\Packages\flutter_pdfviewer\syncfusion_flutter_pdfviewer
+      
+      
+  syncfusion_flutter_treemap:
+    
+      
+      path: C:\Program Files (x86)\Syncfusion\Essential Studio\Flutter\28.1.33\Packages\flutter_treemap
+      
+      
+  syncfusion_flutter_chat:
+    
+      
+      path: C:\Program Files (x86)\Syncfusion\Essential Studio\Flutter\28.1.33\Packages\flutter_chat
+      
+      
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/
+    - images/pdf/
+    - images/xlsio/
+    - images/pdf_viewer/
+    - assets/pdf/
+    - lib/sample_details.json
+    - assets/world_map.json
+    - assets/africa.json
+    - assets/europe.json
+    - assets/germany.json
+    - assets/india.json
+    - assets/usa.json
+    - assets/south_america.json
+    - assets/australia.json
+    - assets/maps_brazil_boundary.json
+    - assets/maps_uk_boundary.json
+    - assets/maps_france_boundary.json
+    - assets/river.json
+    - assets/london_to_british.json
+    - assets/london_to_chessington.json
+    - assets/london_to_hampton_court_palace.json
+    - assets/london_to_twickenham_stadium.json
+    - assets/london_to_windsor_castle.json
+    - assets/product_data.json
+    - assets/chart_data.json
+    - assets/microsoft.png
+    - assets/google.png
+    - assets/amazon.png
+    - assets/tesla.png
+
+  fonts:
+    - family: HeeboBold
+      fonts:
+        - asset: assets/fonts/Heebo-Bold.ttf
+    - family: HeeboMedium
+      fonts:
+        - asset: assets/fonts/Heebo-Medium.ttf
+    - family: Roboto-Bold
+      fonts:
+        - asset: assets/fonts/Roboto-Bold.ttf
+    - family: Roboto-Medium
+      fonts:
+        - asset: assets/fonts/Roboto-Medium.ttf
+    - family: Roboto-Regular
+      fonts:
+        - asset: assets/fonts/Roboto-Regular.ttf 

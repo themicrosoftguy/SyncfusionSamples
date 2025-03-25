@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")  = "FileFormatsSampleBrowser", "FileFormatsSampleBrowser.csproj", "{BDB40EF5-577B-4242-8930-87CE9E8AFFCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDB40EF5-577B-4242-8930-87CE9E8AFFCC}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{BDB40EF5-577B-4242-8930-87CE9E8AFFCC}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{BDB40EF5-577B-4242-8930-87CE9E8AFFCC}.Release|iPhone.ActiveCfg = Release|iPhone
+		{BDB40EF5-577B-4242-8930-87CE9E8AFFCC}.Release|iPhone.Build.0 = Release|iPhone
+		{BDB40EF5-577B-4242-8930-87CE9E8AFFCC}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{BDB40EF5-577B-4242-8930-87CE9E8AFFCC}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{BDB40EF5-577B-4242-8930-87CE9E8AFFCC}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{BDB40EF5-577B-4242-8930-87CE9E8AFFCC}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
